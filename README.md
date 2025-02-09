@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 ### My name is walid Salah
-- 🔭 I’m currently studing  Industriel engineering on National Higher school of advanced technologies
+- 🔭 I’m currently studing  Industriel engineering on National Higher school of advanced technologies in Algiers.
 - 🌱 I’m currently learning Ai & ML with python
 - 😄 Pronouns: Kingrol
 <p>
