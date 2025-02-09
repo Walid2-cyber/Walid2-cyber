@@ -3,10 +3,14 @@
 ### My name is walid 
 - 🔭 I’m currently studing  Industriel engineering on National Higher school of advanced technologies
 - 🌱 I’m currently learning Ai & ML with python
-- 😄 Pronouns: Kingrol 
-<a href="https://www.instagram.com/walid.s.lh/">
+- 😄 Pronouns: Kingrol
+<p>
+  <a href="https://instagram.com/https://www.instagram.com/walid.s.lh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/walid.s.lh/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/last_marvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/last_marvel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/walid-salah-681b64224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/walid-salah-681b64224" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/walid.salah.33886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/walid.salah.33886" height="30" width="40" />
+</p>
 
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
