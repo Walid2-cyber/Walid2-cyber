@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-### My name is walid 
+### My name is walid Salah
 - 🔭 I’m currently studing  Industriel engineering on National Higher school of advanced technologies
 - 🌱 I’m currently learning Ai & ML with python
 - 😄 Pronouns: Kingrol
